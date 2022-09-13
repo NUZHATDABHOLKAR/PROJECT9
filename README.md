@@ -11,7 +11,7 @@ PROJECT:9(HTML & CSS)
 FLEX PROPERTY & MEDIA QUERY
 
 ## Time
-  1 HOURS
+  6 HOURS
 
 ## 🔗 Links
 [PROJECT9](https://project9a.netlify.app/)
